@@ -39,3 +39,4 @@ Clone the repo:
 git clone https://github.com/nahidprawez/mernboilerplate.git
 cd mernboilerplate
 npm install
+# s3
