@@ -1,0 +1,14 @@
+# Environment Configuration
+.env
+.env.*
+
+# Dependency directory
+node_modules
+package-lock.json
+# Logs
+logs
+*.log
+
+# vite build output
+dist/
+
